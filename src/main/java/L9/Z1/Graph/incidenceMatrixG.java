@@ -58,8 +58,6 @@ public class incidenceMatrixG {
         return s.toString();
     }
 
-
-
     public void Prim(){
         int INF = Integer.MAX_VALUE;
 
